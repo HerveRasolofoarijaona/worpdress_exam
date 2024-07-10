@@ -1,0 +1,8 @@
+http://localhost/wp-admin/
+user : admin
+password : cardreamTeam
+email : cardreamteam@gmail.com
+
+http://localhost:8080/ => phpAdmin
+Username: root
+Password: password
